@@ -1,0 +1,10 @@
+<!-- Indices written at Wed, 15 Feb 2012 13:56:26 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 3 times in query history -->
+    <datastore-index kind="Article" ancestor="true" source="auto">
+        <property name="articles_INTEGER_IDX" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>

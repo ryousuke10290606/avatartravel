@@ -1,0 +1,7 @@
+@CHARSET "utf-8";
+#header { text-align: center; }
+#container { margin: 0 auto; text-align: center; width: 800px; }
+#contents { float: left; text-align: left; width: 500px; }
+#navigation { left-margin: 500px; }
+.article { padding-bottom: 4px; border-bottom: 1px solid #CCCCCC; }
+.article img { border: 0px; }

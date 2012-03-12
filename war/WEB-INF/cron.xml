@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/cron/article</url>
+    <description>create articles</description>
+    <schedule>every 5 minutes</schedule>
+    <timezone>Asia/Tokyo</timezone>
+  </cron>
+</cronentries>
